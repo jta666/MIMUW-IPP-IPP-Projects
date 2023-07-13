@@ -1,0 +1,5 @@
+C:/Users/ADMIN/Desktop/IPP-ja429126/cmake-build-debug/CMakeFiles/phone_forward.dir
+C:/Users/ADMIN/Desktop/IPP-ja429126/cmake-build-debug/CMakeFiles/phone_forward_test.dir
+C:/Users/ADMIN/Desktop/IPP-ja429126/cmake-build-debug/CMakeFiles/phone_forward_instrumented.dir
+C:/Users/ADMIN/Desktop/IPP-ja429126/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/Desktop/IPP-ja429126/cmake-build-debug/CMakeFiles/rebuild_cache.dir
